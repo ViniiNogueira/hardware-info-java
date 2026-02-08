@@ -1,4 +1,4 @@
-# HScript de HArdware Information (Java + OSHI)
+# Script de Hardware Information (Java + OSHI)
 
 Este projeto é um script em Java que utiliza a biblioteca **OSHI (Operating System and Hardware Information)** para realizar uma varredura completa nos componentes de hardware da máquina.
  obersevação: è um projeto um pouco antigo e quando fiz decidi não importar a parte de Logs , eu o fiz, pois precisava saber informações de software que o gerenciador de tarefas não mostrava
