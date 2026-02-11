@@ -19,8 +19,4 @@ O script coleta e exibe no console as seguintes informações:
 * **OSHI:** Biblioteca nativa para consulta de hardware.
 * **Maven:** Gerenciamento de dependências.
 
-## 📦 Como executar
-1. Certifique-se de ter o JDK instalado.
-2. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+  
